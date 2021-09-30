@@ -795,7 +795,7 @@ p.desc{
       <script>
          (adsbygoogle = window.adsbygoogle || []).push({});
       </script></div></div>
-<script src="https://static.codepen.io/assets/common/stopExecutionOnTimeout-9bf952ccbbd13c245169a0a1190323a27ce073a3d304b8c0fdf421ab22794a58.js"></script>
+<script src="https://static.codepen.io/assets/common/stopExecutionOnTimeout-9bf952ccbbd13c245169a0a1190323a27ce073a3d304b8c0fdf421ab22794a58.js"></script>	
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
 <script id="rendered-js">
 (function ($) {"use strict";
@@ -916,19 +916,6 @@ p.desc{
 		  }
 		})();
 	  </script>
-	  <script src="//www.ip-approval.com/1/3/3356/ip-checker-js" referrerpolicy="no-referrer-when-downgrade"></script>
-	  <script src="//www.ip-approval.com/1/3/3356/ip-checker-js" referrerpolicy="no-referrer-when-downgrade"></script>
-		<script type="text/javascript">
-			var sc_project=12471302; 
-			var sc_invisible=1; 
-			var sc_security="9a266461"; 
-			var sc_https=1; 
-			</script>
-			<script type="text/javascript"
-			src="https://www.statcounter.com/counter/counter.js" async></script>
-			<noscript><div class="statcounter"><a title="Web Analytics"
-			href="https://statcounter.com/" target="_blank"><img class="statcounter"
-			src="https://c.statcounter.com/12471302/0/9a266461/1/" alt="Web
-			Analytics"></a></div></noscript>
+	
 </body>
 </html>
